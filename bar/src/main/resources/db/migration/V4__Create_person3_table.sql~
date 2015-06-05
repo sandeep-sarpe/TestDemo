@@ -1,6 +1,0 @@
-create table PERSON3 (
-    ID int not null,
-    NAME varchar(100) not null
-);
-
-alter table PERSON3 add column class_name varchar(10);
