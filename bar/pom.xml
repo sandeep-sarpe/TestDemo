@@ -22,7 +22,7 @@
                 <version>3.2.1</version>
 
                 <configuration>
-                    <url>jdbc:postgresql://localhost:5432/cambridge</url>
+                    <url>jdbc:postgresql://172.25.27.50:5432/cambridge</url>
                     <user>postgres</user>
 		    <password>postgres</password>
                 </configuration>
