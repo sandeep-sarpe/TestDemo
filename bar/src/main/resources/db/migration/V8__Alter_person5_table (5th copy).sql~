@@ -1,0 +1,1 @@
+alter table PERSON3 add column middle_name varchar(10);
